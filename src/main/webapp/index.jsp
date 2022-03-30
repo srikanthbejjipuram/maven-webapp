@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from srikanth!</h2>
+<h2>Hello World from srikanth to DEVOPS!</h2>
 </body>
 </html>
